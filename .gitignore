@@ -1,0 +1,23 @@
+# 本地同步脚本（不纳入仓库）
+同步到GitHub.cmd
+sync-to-github.ps1
+
+# 课件原件（体积大且 GitHub 无法预览，仅保留本地）
+PPT/
+
+# 教材课后答案 PDF（版权材料，公开仓库不收录）
+课后习题及答案/
+
+# 生成物 / 预览文件
+_preview.html
+*.tmp
+
+# Office 临时/锁文件
+~$*
+*.pptx~
+*.docx~
+
+# Windows 杂项
+desktop.ini
+Thumbs.db
+.DS_Store
