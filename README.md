@@ -37,7 +37,7 @@
 
 - 本地目录：`D:\study_problems`
 - 一键同步：双击目录下的 `同步到GitHub.cmd`（`git add -A` → 提交 → 推送）
-- 只同步笔记与图片；课件 `*/PPT/`、`课后习题及答案/`、`_preview.html`、Office 临时文件等在 `.gitignore` 中排除
+- 只同步笔记与图片；`*/PPT/`、`*.pdf`（课件与答案）、`_preview.html`、Office 临时文件等在 `.gitignore` 中排除
 
 ## 在手机上看
 
